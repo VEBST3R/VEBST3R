@@ -1,6 +1,6 @@
 - 👋 Hi, I’m VEBST3R
 - 👀 I’m interested in game developing
-- 🌱 I’m currently learning C#.NET and UE5
+- 🌱 I’m currently learning and create some projects on Unity
 
 
 <!---
